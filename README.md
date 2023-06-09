@@ -23,7 +23,7 @@ To create a portfolio using HTML and CSS
 ## CODE:
 
 ### HTML CODE:
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -145,9 +145,9 @@ To create a portfolio using HTML and CSS
     </footer>
 </body>
 </html>
-
+```
 ### CSS CODE:
-
+```
 *{
     padding: 0;
     margin: 0;
@@ -459,7 +459,7 @@ footer p:nth-child(1){
     bottom: 35px;
     font-size: 14px;
 }
-
+```
 ## OUTPUT:
 ![image](https://github.com/Lakshmipriya-P-AI/Portfolio/assets/93427923/f8656ccc-bdbb-4e52-b1e4-38560cf355db)
 
